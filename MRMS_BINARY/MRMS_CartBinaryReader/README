@@ -12,7 +12,7 @@ It does not convert data or have any output other than messages to the
 terminal. 
 
 For further documentation of the MRMS binary format see...
-ftp://ftp.nssl.noaa.gov/projects/MRMS/MRMS_BINARY/MRMS_Gridded_BinaryFormat.pdf
+MRMS_BINARY/docs/MRMS_Gridded_BinaryFormat.pdf
 
 
 To Compile:	g++ -o read_mrms_binary read_mrms_binary.cc -lz
